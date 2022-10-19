@@ -1,6 +1,6 @@
 # 1 - Perceptron
 This folder contains realization of perceptron without using library.
-This aims to give basic understanding abotu the weight and bias updating process of a simple perceptron neural networks
+This aims to give basic understanding about the weight and bias updating process of a simple perceptron neural networks
 
 ## Languages
  - Jupyter notebook .ipynb
